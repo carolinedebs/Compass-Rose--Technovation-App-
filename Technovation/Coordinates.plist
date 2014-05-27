@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+Coordinates
+ -->
+<plist version="1.0">
+    <array>
+        
+        
+        <dict>
+            <key>Type</key>  <string>Hospital</string>
+            <key>Longitude</key>  <string>48.854127</string>
+            <key>Latitude</key>  <string>2.348324</string>
+        </dict>
+        
+        <dict>
+            <key>Type</key>  <string>Trans</string>
+            <key>Longitude</key>  <string>48.862061</string>
+            <key>Latitude</key>  <string>2.34841</string>
+        </dict>
+        
+        <dict>
+            <key>Type</key>  <string>Police</string>
+            <key>Longitude</key>  <string>48.867213</string>
+            <key>Latitude</key>  <string>2.331373</string>
+        </dict>
+        
+        <dict>
+            <key>Type</key>  <string>Police</string>
+            <key>Longitude</key>  <string>48.88515</string>
+            <key>Latitude</key>  <string>2.386283</string>
+        </dict>
+        
+        <dict>
+            <key>Type</key>  <string>Hospital</string>
+            <key>Longitude</key>  <string>48.845079</string>
+            <key>Latitude</key>  <string>2.317362</string>
+        </dict>
+        
+        <dict>
+            <key>Type</key>  <string>Police</string>
+            <key>Longitude</key>  <string>48.82331</string>
+            <key>Latitude</key>  <string>2.410033</string>
+        </dict>
+        
+        <dict>
+            <key>Type</key>  <string>Police</string>
+            <key>Longitude</key>  <string>48.833622</string>
+            <key>Latitude</key>  <string>2.356647</string>
+        </dict>
+        
+        <dict>
+            <key>Type</key>  <string>Hospital</string>
+            <key>Longitude</key>  <string>48.893869</string>
+            <key>Latitude</key>  <string>2.273434</string>
+        </dict>
+        
+        <dict>
+            <key>Type</key>  <string>Hospital</string>
+            <key>Longitude</key>  <string>48.893869</string>
+            <key>Latitude</key>  <string>2.273434</string>
+        </dict>
+        
+        <dict>
+            <key>Type</key>  <string>Hospital</string>
+            <key>Longitude</key>  <string>48.851275</string>
+            <key>Latitude</key>  <string>2.336004</string>
+        </dict>
+        
+        <dict>
+            <key>Type</key>  <string>Hospital</string>
+            <key>Longitude</key>  <string>43.920602</string>
+            <key>Latitude</key>  <string>4.805142</string>
+        </dict>
+        
+        <dict>
+            <key>Type</key>  <string>Hospital</string>
+            <key>Longitude</key>  <string>43.627689</string>
+            <key>Latitude</key>  <string>3.857053</string>
+        </dict>
+        
+        <dict>
+            <key>Type</key>  <string>Hospital</string>
+            <key>Longitude</key>  <string>43.925918</string>
+            <key>Latitude</key>  <string>2.142245</string>
+        </dict>
+        
+        <dict>
+            <key>Type</key>  <string>Drugstore</string>
+            <key>Longitude</key>  <string>48.872618</string>
+            <key>Latitude</key>  <string>2.296949</string>
+        </dict>
+        
+        <dict>
+            <key>Type</key>  <string>Police</string>
+            <key>Longitude</key>  <string>48.858822</string>
+            <key>Latitude</key>  <string>2.307463</string>
+        </dict>
+        
+        <dict>
+            <key>Type</key>  <string>Hospital</string>
+            <key>Longitude</key>  <string>48.814567</string>
+            <key>Latitude</key>  <string>2.257453</string>
+        </dict>
+        
+        <dict>
+            <key>Type</key>  <string>Hospital</string>
+            <key>Longitude</key>  <string>48.860892</string>
+            <key>Latitude</key>  <string>2.349806</string>
+        </dict>
+        
+        <dict>
+            <key>Type</key>  <string>Drugstore</string>
+            <key>Longitude</key>  <string>48.889569</string>
+            <key>Latitude</key>  <string>2.329894</string>
+        </dict>
+        
+        <dict>
+            <key>Type</key>  <string>Drugstore</string>
+            <key>Longitude</key>  <string>48.876926</string>
+            <key>Latitude</key>  <string>2.330924</string>
+        </dict>
+        
+        <dict>
+            <key>Type</key>  <string>Drugstore</string>
+            <key>Longitude</key>  <string>48.860666</string>
+            <key>Latitude</key>  <string>2.335387</string>
+        </dict>
+
+    <dict>
+        <key>Type</key>  <string>Drugstore</string>
+        <key>Longitude</key>  <string>48.849371</string>
+        <key>Latitude</key>  <string>2.336417</string>
+    </dict>
+    
+    <dict>
+        <key>Type</key>  <string>Drugstore</string>
+        <key>Longitude</key>  <string>48.853889</string>
+        <key>Latitude</key>  <string>2.340537</string>
+    </dict>
+
+
+    </array>
+</plist>

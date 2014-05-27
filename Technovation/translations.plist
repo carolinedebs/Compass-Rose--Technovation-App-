@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+Translations
+ -->
+<plist version="1.0">
+    <array>
+        
+        
+        <dict>
+            <key>English</key>  <string>Hello Mrs./Mr./Miss.</string>
+            <key>French</key>  <string>Bonjour Madame / Monsieur / Mademoiselle.</string>
+            <key>Spoken</key>  <string>Boh(n)-zhoor mah-dahme/ muh-syuhr/ mah-dah-mwa-sell.</string>
+        </dict>
+        
+        <dict>
+            <key>English</key>  <string>Excuse me.</string>
+            <key>French</key>  <string>Pardon.</string>
+            <key>Spoken</key>  <string>Par-doh(n).</string>
+        </dict>
+        
+        <dict>
+            <key>English</key>  <string>Do you speak English?</string>
+            <key>French</key>  <string>Parlez-vous anglais?</string>
+            <key>Spoken</key>  <string>Par - lay vooz ah(n)-glay?</string>
+        </dict>
+        
+        <dict>
+            <key>English</key>  <string>My name is ____.</string>
+            <key>French</key>  <string>Je  m’appelle  ____.</string>
+            <key>Spoken</key>  <string>juh mah-pell ____.</string>
+        </dict>
+        
+        <dict>
+            <key>English</key>  <string>Thank you.</string>
+            <key>French</key>  <string>Merci.</string>
+            <key>Spoken</key>  <string>Mare-see.</string>
+        </dict>
+        
+        <dict>
+            <key>English</key>  <string>Sorry to bother you but I have a problem.</string>
+            <key>French</key>  <string>Excusez-moi de vous déranger mais j'ai un problème.</string>
+            <key>Spoken</key>  <string>Ek-sku-zay mwa duh voo day-rah(n)-zhaymay zhay uh(n) proh-blem.</string>
+        </dict>
+        
+        <dict>
+            <key>English</key>  <string>Can you help me?</string>
+            <key>French</key>  <string>Pouvez-vous m'aider?</string>
+            <key>Spoken</key>  <string>Poo-vay voo meh - day?</string>
+        </dict>
+        
+        <dict>
+            <key>English</key>  <string>Yes.</string>
+            <key>French</key>  <string>Oui.</string>
+            <key>Spoken</key>  <string>Wee.</string>
+        </dict>
+        
+        <dict>
+            <key>English</key>  <string>Emergency!</string>
+            <key>French</key>  <string>Urgence!</string>
+            <key>Spoken</key>  <string></string>
+        </dict>
+        
+        <dict>
+            <key>English</key>  <string>Help!</string>
+            <key>French</key>  <string>Au secours!</string>
+            <key>Spoken</key>  <string></string>
+        </dict>
+        
+        <dict>
+            <key>English</key>  <string>Fire!</string>
+            <key>French</key>  <string>Au feu!</string>
+            <key>Spoken</key>  <string></string>
+        </dict>
+        
+        <dict>
+            <key>English</key>  <string>Watch out!</string>
+            <key>French</key>  <string>Attention!</string>
+            <key>Spoken</key>  <string></string>
+        </dict>
+        
+        <dict>
+            <key>English</key>  <string>I’m a vegetarian.</string>
+            <key>French</key>  <string>Je suis vegetarien</string>
+            <key>Spoken</key>  <string></string>
+        </dict>
+    
+        <dict>
+            <key>English</key>  <string>I’ve been raped.</string>
+            <key>French</key>  <string>On m’a ete violee.</string>
+            <key>Spoken</key>  <string></string>
+        </dict>
+        
+        <dict>
+            <key>English</key>  <string>I need a doctor.</string>
+            <key>French</key>  <string>J'ai besoin d'un docteur</string>
+            <key>Spoken</key>  <string></string>
+        </dict>
+        
+        <dict>
+            <key>English</key>  <string>I’ve been attacked.</string>
+            <key>French</key>  <string>On m’a agresse(e)</string>
+            <key>Spoken</key>  <string></string>
+        </dict>
+        
+        <dict>
+            <key>English</key>  <string>I’m an American.</string>
+            <key>French</key>  <string>Je suis un Americain.</string>
+            <key>Spoken</key>  <string></string>
+        </dict>
+    
+    
+    </array>
+</plist>
